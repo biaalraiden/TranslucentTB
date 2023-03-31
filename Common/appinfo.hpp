@@ -9,3 +9,5 @@
 
 #define APP_VERSION_FIXED 1,0,0,1
 #define APP_VERSION UTIL_WIDEN("1.0.0.1")
+#define APP_VERSION_FIXED ,,0
+#define APP_VERSION UTIL_WIDEN("..")
